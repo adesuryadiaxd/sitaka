@@ -1,0 +1,19 @@
+.ahead {
+
+	font: 17px Georgia, Arial;
+	color: #006600;
+	margin-bottom: 5px;
+
+}
+
+
+#aplikasicetak {
+	margin-bottom: 10px;
+	width: 100%;
+	line-height: 1.5;
+	display: block;
+	padding: 8px;
+	border: solid #000 1px;
+	border-top: solid #000 5px;
+
+}
